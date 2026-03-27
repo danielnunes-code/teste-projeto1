@@ -14,4 +14,17 @@ h1 {
 p {
     font-size: 20px;
     color: #cbd5f5;
+
+    button {
+        background-color: #22c55e;
+        color: black;
+        border: none;
+        padding: 10px 20px;
+        font-size: 18px;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+    button:hover {
+        background-color: #16a34a;
+    }
 }
