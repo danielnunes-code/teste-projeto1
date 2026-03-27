@@ -1,4 +1,6 @@
-Meu primeiro projeto no GitHub ??
+# Meu primeiro projeto 
 
-Criado por Daniel.
+Criado por DaniGroove
+
+Aprendendo Git e GitHub 😎
 
