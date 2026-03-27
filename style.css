@@ -16,15 +16,16 @@ p {
     color: #cbd5f5;
 
     button {
-        background-color: #22c55e;
-        color: black;
+        background-color: #4caf50;
+        color: white;
         border: none;
         padding: 10px 20px;
         font-size: 18px;
         border-radius: 8px;
         cursor: pointer;
+        transition: 0.3s;
     }
     button:hover {
-        background-color: #16a34a;
+        background-color: #45a049;
     }
 }
