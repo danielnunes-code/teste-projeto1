@@ -8,13 +8,21 @@
 </head>
 <body>
     
-    <h1>Meu Primeiro Site</h1>
-    <p>Feito por Daniel</p>
-    <button onclick="mostrarMensagem()">Clique aqui</button>
-    <p id="mensagem"></p>
+    <div class="container">
 
-    <img src="imagens/foto.png" width="300">
+        <h1>Meu Primeiro Site</h1>
+        <p>Feito por Daniel</p>
+        <button onclick="mostrarMensagem()">Clique aqui</button>
+        <p id="mensagem"></p>
 
+        <img src="imagens/foto.png" width="300">
+
+    </div>
+
+    <a href="https://github.com/danielnunes-code" target="_blank">
+        Meu GitHub
+    </a>
+    
     <script>
         function mostrarMensagem(){
             document.getElementById("mensagem").innerText = "Você clicou no botão";
