@@ -58,3 +58,6 @@ a {
 a:hover {
     background-color: #0284c7;
 }
+html {
+    scroll-behavior: smooth;
+}
