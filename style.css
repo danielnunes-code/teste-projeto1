@@ -3,6 +3,7 @@ body {
     background: linear-gradient(to right, #0f172a, #1e293b);
     margin: 0;
     padding: 0;
+    padding-top: 70px;
 }
 
 
@@ -91,6 +92,23 @@ nav a:hover {
     color: black;
 }
 
-body{
-    padding-top: 70px;
+
+nav a.active {
+    background-color: #22c55e;
+    color: black;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #111827;
+    padding: 15px;
+
+    display: flex;
+    justify-content: center; /* CENTRALIZA */
+    align-items: center;
+    gap: 30px;
+
+    z-index: 1000;
 }
