@@ -112,3 +112,8 @@ nav {
 
     z-index: 1000;
 }
+
+nav a {
+    display: inline; 
+    margin-top: 0;  
+}
