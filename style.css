@@ -65,15 +65,15 @@ html {
     min-height: 100vh;
 }
 #home {
-    background-color: #ffffff;
+    background-color: #4947d6;
 }
 
 #sobre {
-    background-color: #f1f5f9;
+    background-color: #4947d6;
 }
 
 #contato {
-    background-color: #e2e8f0;
+    background-color: #4947d6;
 }
 nav {
     position: fixed;
